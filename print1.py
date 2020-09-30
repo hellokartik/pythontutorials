@@ -1,6 +1,1 @@
-#Include (Stdio.H)
-{
-    printf(Hello, Kartik)
-    
-
-
+printf(Hello, Kartik)
